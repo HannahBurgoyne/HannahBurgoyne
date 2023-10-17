@@ -13,11 +13,11 @@ My portfolio! I have a few different projects in the mix, which I'll be looking 
 ### 💬 Ask me about
 My final group project at Dev Academy! I had a blast collaborating with my team, and embraced the struggle of stretching my knowledge even further with Auth0, Multer, and many-to-many relational databases. 
 
-### ⚡ Fun fact:
+### ⚡ Fun fact
 I once got to swim with seals out at Tutukaka - I can confirm they play just like dogs! 
 
 
-### 📫 How to reach me:
+### 📫 How to reach me
 Feel free to DM me on [LinkedIn](https://www.linkedin.com/in/hannah-burgoyne-1311b5160/), or get in touch [via email](mailto:hannah.burgoyne@gmail.com)! 
 
 ### 📜 Want to know more? 
