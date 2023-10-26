@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a junior software developer looking for my next opportunity. I recently graduated from Dev Academy Aotearoa, where I learnt to build fullstack software applications in a simulated Agile work environment. 
+I'm a software developer looking for my next opportunity. I recently graduated from Dev Academy Aotearoa, where I learnt to build fullstack software applications in a simulated Agile work environment. 
 
 Problem solving has always been at the heart of everything I do. During my six years in the arts I learnt to find creative solutions for numerous requests, ranging from self-learning HTML and CSS to customise websites, to debugging audiovisual technologies for immersive art installations. Earlier this year I decided to take the plunge into coding after many years of interest in tech and self-guided evenings at home learning JavaScript, and I’ve been hooked ever since. 
 
