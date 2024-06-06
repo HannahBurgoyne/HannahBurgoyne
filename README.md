@@ -8,7 +8,7 @@ I’m now hugely passionate about building fullstack applications, collaborating
 ------------
 
 ### 🔭 I’m currently working on
-My portfolio! I have a few different projects in the mix, which I'll be looking to build in some tech I haven't used yet. Watch this space! 
+Building my first mobile app, using React Native on the frontend and .NET on the backend! I'm excited to dive into these new technologies. 
 
 ### 💬 Ask me about
 My final group project at Dev Academy! I had a blast collaborating with my team, and embraced the struggle of stretching my knowledge even further with Auth0, Multer, and many-to-many relational databases. 
