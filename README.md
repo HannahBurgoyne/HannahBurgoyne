@@ -58,8 +58,9 @@ Feel free to DM me on [LinkedIn](https://www.linkedin.com/in/hannah-burgoyne-131
 - Non-Violent Communication Strategies (NVC)
 
 ### What I'm aiming to learn next: 
-- SQL
-- C#
+- Further learning on data structures, algorithms, and big O notation
+- .NET Core Framework
+- Deeper understanding of Node.js
 
 
 <!--
