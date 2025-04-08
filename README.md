@@ -1,17 +1,17 @@
 ### Hi there 👋
-I'm a software developer looking for my next opportunity. I recently graduated from Dev Academy Aotearoa, where I learnt to build fullstack software applications in a simulated Agile work environment. 
+I'm a software and iOS developer looking for my next opportunity. In 2023 I graduated from Dev Academy Aotearoa, where I learnt to build fullstack software applications in a simulated Agile work environment, and I recently completed an internship at Trade Me where I worked on B2B fullstack software within Jobs. 
 
 Problem solving has always been at the heart of everything I do. During my six years in the arts I learnt to find creative solutions for numerous requests, ranging from self-learning HTML and CSS to customise websites, to debugging audiovisual technologies for immersive art installations. In 2023 I decided to take the plunge into coding after many years of interest in tech and self-guided evenings at home learning JavaScript, and I’ve been hooked ever since. 
 
-I’m now hugely passionate about building fullstack applications, collaborating with other developers, learning new programming languages and frameworks, and sharing my knowledge. I thrive in fast-paced, challenging environments and can’t wait to contribute value to a development team!
+I’m now hugely passionate about building fullstack and mobile applications, collaborating with other developers, learning new programming languages and frameworks, and sharing my knowledge. I thrive in fast-paced, challenging environments and can’t wait to contribute value to a development team!
 
 ------------
 
 ### 🔭 I’m currently working on
-Building my first mobile app, using React Native on the frontend and .NET on the backend! I'm excited to dive into these new technologies. 
+Building my first iOS app using Swift on the frontend and .NET on the backend! I'm excited to dive into these new technologies. 
 
 ### 💬 Ask me about
-My final group project at Dev Academy! I had a blast collaborating with my team, and embraced the struggle of stretching my knowledge even further with Auth0, Multer, and many-to-many relational databases. 
+My recent internship! It was amazing to work at Trade Me and I learned tons about working with Microsoft .NET Core and TypeScript in an object oriented way. 
 
 ### ⚡ Fun fact
 I once got to swim with seals out at Tutukaka - I can confirm they play just like dogs! 
@@ -31,6 +31,7 @@ Feel free to DM me on [LinkedIn](https://www.linkedin.com/in/hannah-burgoyne-131
 - Test-Driven Development
 - Relational Databases
 - Node.js
+- .NET Core 
 - Knex
 - JavaScript
 - HTML5
@@ -43,6 +44,9 @@ Feel free to DM me on [LinkedIn](https://www.linkedin.com/in/hannah-burgoyne-131
 - Database Queries
 - React
 - TypeScript
+- C#
+- Microsoft Entity Framework Core
+- Angular 
 - ReactQuery
 - Sqlite3
 - Multer
@@ -59,8 +63,8 @@ Feel free to DM me on [LinkedIn](https://www.linkedin.com/in/hannah-burgoyne-131
 
 ### What I'm aiming to learn next: 
 - Further learning on data structures, algorithms, and big O notation
-- .NET Core Framework
-- Deeper understanding of Node.js
+- Further learning on .NET Core programming 
+- iOS Programming with Swift and Obj-C
 
 
 <!--
